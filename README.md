@@ -22,3 +22,4 @@ npx cap open android
 # troubleshoot
 if build fail: Run npx cap sync android again
 if location doest work : grant location permission in android settings
+if error download from this drive https://drive.google.com/drive/folders/1kABxsWAl1GDHA8vAAfQAThPDc_tYc4Jt?usp=sharing
